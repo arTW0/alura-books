@@ -1,0 +1,9 @@
+.icones {
+  display: flex;
+  font-size: 2rem;
+}
+
+.icone {
+  margin: 0 0.5rem;
+  cursor: pointer;
+}

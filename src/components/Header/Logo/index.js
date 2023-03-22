@@ -1,5 +1,5 @@
-import logo from '../../images/logo.svg';
-import './estilo.css'
+import logo from '../../../images/logo.svg';
+import './styles.css'
 
 function Logo() {
   return <div className='logo'>
